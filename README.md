@@ -100,7 +100,7 @@ This project was made possible thanks to the contributions of the following reso
 1. [BitTorrent Protocol Documentation](https://www.bittorrent.org/beps/bep_0003.html) - For detailed specifications and understanding of the BitTorrent protocol.
 2. [TinySHA1 Library](https://github.com/mohaps/TinySHA1) - Used for SHA1 hashing in this project.
 3. [Arpit Bhayani-BitTorrent Internals](https://www.youtube.com/watch?v=v7cR0ZolaUA&list=PLsdq-3Z1EPT1rNeq2GXpnivaWINnOaCd0) - Great resource to learn about bittorrent internals
-4. (https://app.codecrafters.io/courses/bittorrent/introduction)
+4. https://app.codecrafters.io/courses/bittorrent/introduction
 
 We are grateful for the work of these authors and communities that supported the development of this project.
 
