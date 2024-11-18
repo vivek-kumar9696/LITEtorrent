@@ -36,5 +36,5 @@ A lighter version of bittorrent- made as fun project for my research lab to dist
     ```
 This generates:
 
-    - Debug build: Located at build/debug/bittorrent_client with symbols for GDB and ThreadSanitizer.
-    - Release build: Located at build/release/bittorrent_client optimized for performance.
+    1. Debug build: Located at build/debug/bittorrent_client with symbols for GDB and ThreadSanitizer.
+    2. Release build: Located at build/release/bittorrent_client optimized for performance.
